@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TryComponentTree</string>
+    <string name="testing">hi</string>
+</resources>
